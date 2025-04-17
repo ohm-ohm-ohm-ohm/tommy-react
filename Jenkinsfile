@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/codewithmuh/react-aws-ec2-nginx.git'
+                git 'https://github.com/ohm-ohm-ohm-ohm/tommy-react.git'
             }
         }
 
