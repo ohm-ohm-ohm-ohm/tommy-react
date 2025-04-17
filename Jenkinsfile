@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = "react-nginx-app"
         CONTAINER_NAME = "react-container"
-        APP_PORT = "8080"
+        APP_PORT = "3000"
     }
 
     stages {
